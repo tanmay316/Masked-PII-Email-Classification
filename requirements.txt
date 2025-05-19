@@ -1,0 +1,11 @@
+transformers==4.39.3
+datasets==2.19.0
+presidio-analyzer
+presidio-anonymizer
+accelerate==0.27.2
+peft==0.10.0
+evaluate
+flask>=2.2.5
+torch>=1.10.0
+spacy>=3.5.0
+gunicorn>=20.1.0
