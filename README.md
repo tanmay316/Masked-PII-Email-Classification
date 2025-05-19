@@ -69,6 +69,7 @@ POST https://tms43-PII-email-classification.hf.space/classify
 **Response:**
 ```json
 {
+  "input_email_body": "...",
   "masked_email": "...",
   "list_of_masked_entities": [...],
   "category_of_the_email": "..."
