@@ -2,7 +2,7 @@
 
 A Flask-based web API that detects and masks Personally Identifiable Information (PII) from multilingual email text and classifies the intent of the email using a fine-tuned XLM-Roberta model.
 
-**Hosted on:** HF Spaces
+**Hosted on:** HF Spaces: tms43/email_classifier_XLMRoberta
 
 ## 📌 Problem Statement
 
